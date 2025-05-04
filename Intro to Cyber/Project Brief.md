@@ -7,15 +7,18 @@ Phase 2, "External Intel Gathering", deploys digital surveillance via Shodan and
 Execute with precision to secure a comprehensive battlefield overview.
 
 **1. VISION**
-   Understanding the network, the devices in it, and the role of each of them.
+Understanding the network, the devices in it, and the role of each of them.
+
 **2. MISSION**
-   Map the network and understand the role of each device on your network.
+Map the network and understand the role of each device on your network.
+
 **3. STRATEGY**
-   Use an online website such as app.diagrams.net and create a schema of your network
+Use an online website such as app.diagrams.net and create a schema of your network
+
 **4. OBJECTIVES**
-   Find all your IP addresses at home, including MAC addresses.
-   Include the DNS and DHCP devices.
-   Collect all the details about your ISP and public IP address in Shodan and Whois.
+- Find all your IP addresses at home, including MAC addresses.
+- Include the DNS and DHCP devices.
+- Collect all the details about your ISP and public IP address in Shodan and Whois.
 
 ## Project Structure
 
