@@ -1,6 +1,6 @@
-#Intro to Cyber | Project: Net Crafts
+# Intro to Cyber | Project: Net Crafts
 
-##OPERATION ORDER
+## OPERATION ORDER
 Operation Net Crafts is a two-phased reconnaissance mission.
 Phase 1, "Network Mapping", commands a detailed survey of the internal network terrain, identifying all devices, their communication protocols, and strategic infrastructure points.
 Phase 2, "External Intel Gathering", deploys digital surveillance via Shodan and WHOIS, examining the network's public presence and analysing traffic for operational security.
@@ -17,9 +17,9 @@ Execute with precision to secure a comprehensive battlefield overview.
    Include the DNS and DHCP devices.
    Collect all the details about your ISP and public IP address in Shodan and Whois.
 
-##Project Structure
+## Project Structure
 
-###1. Map the Network
+### 1. Map the Network
      1.1. Display Devices IP Address
      1.2. Display Devices MAC Address and Vendor (display partially)
      1.3. Display the Router's Internal and External IP Addresses (display partially)
@@ -27,7 +27,7 @@ Execute with precision to secure a comprehensive battlefield overview.
      1.5. Display your Internet Service Provider (ISP)
      1.6. Display if the Device is Connected via Ethernet or Wireless
 
-###2. Collecting Information
+### 2. Collecting Information
      2.1. Use Shodan to Check Your Public IP Address
      2.2. Use WHOIS to Check Who is Registered on Your Public IP Address
      2.3. Sniff Your Network and Identify Three (3) Used Protocols
