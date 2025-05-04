@@ -1,4 +1,4 @@
-# Intro to Cyber | Project: Net Crafts
+# INTRO TO CYBER | PROJECT: NET CRAFTS
 
 ## OPERATION ORDER
 Operation Net Crafts is a two-phased reconnaissance mission.
