@@ -13,7 +13,7 @@ Understanding the network, the devices in it, and the role of each of them.
 Map the network and understand the role of each device on your network.
 
 **3. STRATEGY**
-Use an online website such as app.diagrams.net and create a schema of your network
+Use an online website such as app.diagrams.net and create a schema of your network.
 
 **4. OBJECTIVES**
 - Find all your IP addresses at home, including MAC addresses.
