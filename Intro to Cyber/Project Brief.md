@@ -23,16 +23,16 @@ Use an online website such as app.diagrams.net and create a schema of your netwo
 ## Project Structure
 
 ### 1. Map the Network
-     1.1. Display Devices IP Address
-     1.2. Display Devices MAC Address and Vendor (display partially)
-     1.3. Display the Router's Internal and External IP Addresses (display partially)
-     1.4. Display the DNS and DHCP IP Addresses in your Network
-     1.5. Display your Internet Service Provider (ISP)
-     1.6. Display if the Device is Connected via Ethernet or Wireless
+  1.1. Display Devices IP Address\
+  1.2. Display Devices MAC Address and Vendor (display partially)\
+  1.3. Display the Router's Internal and External IP Addresses (display partially)\
+  1.4. Display the DNS and DHCP IP Addresses in your Network\
+  1.5. Display your Internet Service Provider (ISP)\
+  1.6. Display if the Device is Connected via Ethernet or Wireless
 
 ### 2. Collecting Information
-     2.1. Use Shodan to Check Your Public IP Address
-     2.2. Use WHOIS to Check Who is Registered on Your Public IP Address
-     2.3. Sniff Your Network and Identify Three (3) Used Protocols
-     2.3.1. For Each Protocol Explain Its Usage
-     2.3.2. For Each Protocol, Find the Used Port Number
+  2.1. Use Shodan to Check Your Public IP Address\
+  2.2. Use WHOIS to Check Who is Registered on Your Public IP Address\
+  2.3. Sniff Your Network and Identify Three (3) Used Protocols\
+  2.3.1. For Each Protocol Explain Its Usage\
+  2.3.2. For Each Protocol, Find the Used Port Number
